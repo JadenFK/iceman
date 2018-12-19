@@ -123,4 +123,4 @@ showUpdateDate: false
 highlight:
   enable: true
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-hacker
