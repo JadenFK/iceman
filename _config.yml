@@ -122,3 +122,5 @@ showUpdateDate: false
 #### enable highlight for code fences
 highlight:
   enable: true
+
+theme: jekyll-theme-merlot
